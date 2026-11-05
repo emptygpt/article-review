@@ -20,13 +20,7 @@
 
 ## 实例
 
-
-
-
-
-
-
-
+<img width="1381" height="1446" alt="image" src="https://github.com/user-attachments/assets/3ae6f8a2-fc76-479f-909b-8c412d464ab6" />
 
 
 ## 打分维度
